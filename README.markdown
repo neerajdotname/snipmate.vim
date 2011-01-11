@@ -1,5 +1,3 @@
-Quickly install with:
+This is a fork of https://github.com/msanders/snipmate.vim . I forked to add these additional shortcuts
 
-    git clone git://github.com/msanders/snipmate.vim.git
-	cd snipmate.vim
-	cp -R * ~/.vim
+
