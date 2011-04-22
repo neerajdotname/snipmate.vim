@@ -4,3 +4,5 @@ This is a fork of https://github.com/msanders/snipmate.vim . I forked to add the
 pu #=> puts "*"
 
 rdd #=> require 'ruby-debug'; debugger
+
+rab #=> raise "boom"
